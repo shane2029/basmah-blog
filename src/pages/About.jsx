@@ -14,7 +14,7 @@ const About = () => {
       <div className="mb-12 flex flex-col md:flex-row gap-12 items-center">
         <div className="md:w-1/2">
           <img
-            src="https://source.unsplash.com/random/600x600/?portrait"
+            src="/about-profile.jpg"
             alt="Author Portrait"
             className="rounded-xl shadow-lg w-full h-auto"
           />
