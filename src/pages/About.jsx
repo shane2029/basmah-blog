@@ -21,7 +21,7 @@ const About = () => {
         </div>
         
         <div className="md:w-1/2">
-          <h2 className="text-2xl font-bold mb-4">Hello, I'm Emma</h2>
+          <h2 className="text-2xl font-bold mb-4">Hello, I'm Basmah</h2>
           <p className="text-gray-700 mb-4">
             Welcome to Blossom, my corner of the internet where I share my thoughts on mindful living, creativity, and finding beauty in everyday moments.
           </p>
