@@ -6,16 +6,7 @@ const blogData = [
       content: `
         <p>There are presently a number of tourist attractions located on the site of the former US Naval Base. ranging from family-friendly theme parks, opulent yet affordable lodgings, eateries offering both local and foreign fare, and environmentally conscious pursuits like shipwreck diving, jungle survival, and birdwatching. In addition to being reachable by air and sea, Subic Bay is connected to and from Luzon's busiest airports by two expressways. With 15 piers and wharves to accommodate all kinds of vessels and an international airport, it's the newest cruise ship playground in Southeast Asia. With so much to offer, Subic Bay is hailed as the Top 5 Best Destination in the entirety of the Philippines  (together with the Zambales province) for 2021 by the Department of Tourism and is the most-visited destination in Central Luzon for 2023.</p>
         
-        <p>Mindfulness, the practice of being fully present and engaged in the current moment, allows us to appreciate these fleeting instances of beauty. By training ourselves to pay attention to our surroundings with curiosity and without judgment, we can transform our daily lives.</p>
-        
-        <h3>Simple Ways to Practice Mindfulness</h3>
-        
-        <p>Start with your morning routine. As you prepare your coffee or tea, notice the aroma, the warmth of the cup in your hands, the changing color as you add milk. These small observations connect you to the present moment.</p>
-        
-        <p>During your commute or daily walk, look for something new - a building detail you never noticed, a bird's nest in a tree, or patterns of light on the sidewalk. This practice of discovery keeps your mind engaged with your surroundings.</p>
-        
-        <p>The more we practice mindfulness, the more natural it becomes. Eventually, you'll find yourself spontaneously noticing and appreciating the beauty around you, enriching your daily experience of life.</p>
-      `,
+       `,
       author: 'Kay Jamil',
       date: '2025-04-08',
       category: 'SBECC',

@@ -64,11 +64,7 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="mt-8 pt-8 border-t border-gray-200 text-center">
-          <p className="text-gray-600 text-sm">
-            &copy; {currentYear} Industry Visit Blog. All rights reserved.
-          </p>
-        </div>
+        
       </div>
     </footer>
   );
